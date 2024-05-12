@@ -1,2 +1,0 @@
-# dbt-kensho
-dbt kensho
